@@ -8,6 +8,7 @@ Biggest knowledge platform.
 
 print `ifconfig`;
 print "HELLO , HOW ARE YOU.."
+print "Stay home.!!"
 
 ?>
 </pre>
