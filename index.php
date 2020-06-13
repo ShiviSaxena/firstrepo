@@ -8,9 +8,11 @@ print "Biggest knowledge platform.\n";
 print `ifconfig\n`;
 print "HELLO , HOW ARE YOU..\n";
 print "Stay home.!!\n";
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
 <html>
-  <img scr="d1mrsjee7quv7u.cloudfront.net/aws terraform.png  height="200"  width="200">
+<img src="terraform.png" width="500" height="300" title="Terraform" alt="Terraform" />
 </html>
+';
 
 ?>
 </pre>
