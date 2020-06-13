@@ -8,10 +8,6 @@ print "Biggest knowledge platform.\n";
 print `ifconfig\n`;
 print "HELLO , HOW ARE YOU..\n";
 print "Stay home.!!\n";
-<html>
-<img src="aws terraform.png" width="500" height="300" title="Terraform" alt="Terraform" />
-</html>
-
 
 ?>
 </pre>
