@@ -1,6 +1,6 @@
 <body bgcolor="grey">
 <pre>
-<img src="/awsterraform.png" width="400" height="400"  align="center" >
+<img src="https://dr9qqxkqtnpye.cloudfront.net/awsterraform.png" width="400" height="400"  align="center" >
 
 <?php
 print "Welcome to task1..!!\n";
